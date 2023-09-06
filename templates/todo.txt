@@ -1,0 +1,7 @@
+*** UPDATES ***
+
+✅ - fix url endpoints {individual portfolio github links}
+✅ - Resume issue when pdf downloaded
+- Picture in Circle is jacked up
+✅ - add animations to the main header "WILLIAM CATON JR DEVELOPER BASED IN....."
+✅ - Edit text
